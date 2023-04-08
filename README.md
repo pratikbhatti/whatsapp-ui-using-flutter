@@ -1,7 +1,7 @@
 
 # WhatsApp ui App (Using Flutter)
 
-This app is a whatapp ui app. This app is made in flutter technology.
+This app is a whatapp ui app. This app is made in flutter technology. using provider state management
 
 # Interface Image & Video
 <h3> Whatapp Ui App Screen Images </h3>
